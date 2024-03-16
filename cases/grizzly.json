@@ -1,0 +1,10 @@
+{
+    "caseid":"grizzly",
+    "prompt":"fai un breve riassunto in Italiano del seguente testo, non deve superare le 300 battute.",
+    "fulltext":"",
+    "fulltext_link":"./grizzly.txt",
+    "human":"Il grizzly è il più famoso orso nordamericano che abita le grandi foreste e le zone montuose. In passato il suo areale era molto vasto ma ora è ridotto a causa della caccia e quindi è confinato ai grandi parchi come Yellowstone ed alcune zone selvagge delle Montagne Rocciose. In tutto il Nord America si contano circa 55 mila esemplari",
+    "generated":"Il grizzly occupa il secondo posto tra le specie di orsi per diffusione in Nord America, abitando principalmente le estese foreste di conifere e le praterie boscose statunitensi. Questa specie, che in passato si estendeva dal Canada fino al Messico, conta ora all'incirca 60.000 individui. La maggior parte di essi si trova nel Wyoming, nel Montana, nonché in determinate aree del Canada e dell'Alaska, principalmente a causa del declino del loro habitat naturale e della caccia",
+    "bad":"questa è una sintesi completamente sbagliata, bla bla bla",
+    "benchmark":"Il grizzly è il secondo orso più diffuso in Nord America, principalmente nelle grandi foreste di conifere e praterie boscose degli USA. La specie, un tempo vastamente diffusa dal Canada al Messico, oggi conta circa 60.000 esemplari, concentrati soprattutto nel Wyoming, Montana, e in alcune zone del Canada e dell'Alaska, a causa della riduzione del loro habitat e della caccia"
+}
